@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Reactt&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 </p>
-[![soonger3306's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonger3306)](https://github.com/soonger3306/github-readme-stats)
+
 
 <!--
 
