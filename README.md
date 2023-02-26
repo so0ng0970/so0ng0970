@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=Reactt&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?soonger3306=anuraghazra&show_icons=true&bg_color=00000000)
 <!--
 
 - 🔭 I’m currently working on ...
