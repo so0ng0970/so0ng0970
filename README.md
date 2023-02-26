@@ -9,9 +9,11 @@
 </p>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?soonger3306=dkssud8150&exclude_repo=soonger3306.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonger3306&exclude_repo=soonger3306.github.io&layout=compact&theme=tokyonight" />
 </a>
-
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=soonger3306&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 <!--
 
 - 🔭 I’m currently working on ...
