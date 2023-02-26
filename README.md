@@ -9,7 +9,7 @@
 </p>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?soonger3306=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?soonger3306=dkssud8150&exclude_repo=soonger3306.github.io&layout=compact&theme=tokyonight" />
 </a>
 
 <!--
