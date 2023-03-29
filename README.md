@@ -12,8 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonger3306&exclude_repo=soonger3306.github.io&layout=compact&theme=tokyonight" width=42%"/>
   </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=soonger3306&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/apiusername=soonger3306&theme=tokyonight&show_icons=true" />
 </a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonger3306&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=soonger3306&show_icons=true">
+
+
 <!--
 
 - 🔭 I’m currently working on ...
