@@ -12,7 +12,7 @@
  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonger3306&layout=compact&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/soonger3306">
-	<img src="https://github-readme-stats.vercel.app/api?username=soonger3306&show_icons=true">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soonger3306s&show_icons=true&theme=tokyonight)
 </a>
 
 <!--
