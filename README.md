@@ -12,7 +12,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonger3306&layout=compact">
 </a>
 												           <a href="s">
-<img src="https://github-readme-stats.vercel.app/api?username=soonger3306&show_icons=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?soonger3306=anuraghazra&show_icons=true&theme=radical)
 </a>
 
 <!--
