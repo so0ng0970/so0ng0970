@@ -13,6 +13,7 @@
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonger3306&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonger3306&count_private=true&theme=radical)
 
 
 <!--
