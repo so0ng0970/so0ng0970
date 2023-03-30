@@ -12,7 +12,6 @@
  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonger3306&layout=compact&theme=radical&hide_border=true" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonger3306&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonger3306&count_private=true&theme=radical)
 
 
