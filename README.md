@@ -8,15 +8,12 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so0ng0970
-&langs_count=10&layout=compact&theme=radical)](https://github.com/so0ng0970
-)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so0ng0970&langs_count=10&layout=compact&theme=radical)](https://github.com/so0ng0970)
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=so0ng0970
-&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=so0ng0970&count_private=true&theme=radical)
 
 
 <!--
